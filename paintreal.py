@@ -20,6 +20,8 @@ def line(start, end):
     goto(start.x, start.y)
     down()
     goto(end.x, end.y)
+     
+#Se estableceran los parametros e indicaciones que las lineas tienen que realizar para que la figura que se requiera por el usuario se pueda formar y rellenarla con el color que se requiera.
 
 def square(start, end):
     "Draw square from start to end."
