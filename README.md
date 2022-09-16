@@ -1,4 +1,3 @@
-# TC1001
 #paint.py
 #En el codigo podemos encontrar ciertas funciones para que este lo realice las cuales se explicaran:
 #Las lineas son dibujadas con indicadores los cuales determinaran si va arriba, abajo, al lado izquierdo derecho esto incluyendo los angulos , pero esto varia segun la figura que se busca formar.
